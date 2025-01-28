@@ -27,6 +27,14 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+# ALLOWED_HOSTS = ['0.0.0.0', 'your-ip-address', 'localhost', '127.0.0.1']
+# CSRF_TRUSTED_ORIGINS = [
+#     'http://51.20.76.242',
+#     'https://51.20.76.242',  # If you're using HTTPS
+#     # Add other trusted origins here if needed
+# ]
+
+
 
 
 # Application definition
